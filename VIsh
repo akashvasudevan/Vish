@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>akash</title>
+</head>
+<body>
+<p>Welcome to my world</p>
+<style type="text/css">
+html
+{
+background: url(232.jpeg) no-repeat center center fixed;
+-webkit-background-size: cover;
+background-size:cover;
+}
+</style>
+</body>
+</html>
